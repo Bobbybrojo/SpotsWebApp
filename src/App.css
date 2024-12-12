@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* a,
+a:link {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+} */
+
+.fixed-bottom,
+.fixed-top {
+  position: initial;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
